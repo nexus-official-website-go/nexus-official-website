@@ -49,4 +49,6 @@ This guide is created solely for educational purposes. The information offered i
 
 
 
-Update:  07/21/2025 22-09 Fixed broken url, now accessible and working
+
+
+Update:  07/24/2025 12-06-39 link is back online and live
